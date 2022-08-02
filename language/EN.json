@@ -1,0 +1,6 @@
+{
+    "START": "Hello [👋](https://te.legra.ph/file/a9cdae14cbe2b12bf0cb8.png), you can send your contribution to this bot and it will be published in the associated channels.",
+    "ERROR_REPLY": "*Debes responder un mensaje.*",
+    "ERROR_NOTFOUND": "*Mensaje no encontrado en la base de datos. No puedo responder...*",
+    "SENDER": "Remitente:"
+}
