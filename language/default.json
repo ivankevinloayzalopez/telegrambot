@@ -1,5 +1,5 @@
 {
-    "START": "Hi, you can message my owner with this bot. My owner will answer your message as soon as possible!\nMade with ❤️ by [Skueletor](https://telegram.me/DKzippO)",
+    "START": "Hello [👋](https://te.legra.ph/file/a9cdae14cbe2b12bf0cb8.png), you can send your contribution to this bot and it will be published in the associated channels",
     "ERROR_REPLY": "*Please reply an message.*",
     "ERROR_NOTFOUND": "*Message not found in database. Can't reply...*",
     "SENDER": "*Sender:*"
