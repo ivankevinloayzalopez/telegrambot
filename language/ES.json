@@ -1,5 +1,5 @@
 {
-    "START": "Hola [👋](https://te.legra.ph/file/9d8ed29730e244f147301.jpg), puedes enviar un mensaje a mi propietario con este bot. ¡Mi propietario responderá tu mensaje lo antes posible!\nHecho con ❤️ por [Skueletor](https://telegram.me/DKzippO)",
+    "START": "Hola [👋](https://te.legra.ph/file/a9cdae14cbe2b12bf0cb8.png), puedes enviar tu aporte a este bot y se publicara en los canales asociados",
     "ERROR_REPLY": "*Debes responder un mensaje.*",
     "ERROR_NOTFOUND": "*Mensaje no encontrado en la base de datos. No puedo responder...*",
     "SENDER": "Remitente:"
